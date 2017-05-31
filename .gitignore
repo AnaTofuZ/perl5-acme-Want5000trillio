@@ -29,3 +29,5 @@ cover_db/
 MYMETA.*
 
 /Acme-Want5000trillion-*
+.perl-version
+

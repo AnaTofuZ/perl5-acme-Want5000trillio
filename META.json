@@ -1,10 +1,10 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "I want 5000trillion yen.",
    "author" : [
       "@ie.u-ryukyu.ac.jp>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Minilla/v3.0.10, CPAN::Meta::Converter version 2.150005",
+   "generated_by" : "Minilla/v3.0.11, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "perl_5"
    ],
@@ -52,7 +52,21 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/AnaTofuZ/perl5-acme-Want5000trillio/issues"
+      },
+      "homepage" : "https://github.com/AnaTofuZ/perl5-acme-Want5000trillio",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/AnaTofuZ/perl5-acme-Want5000trillio.git",
+         "web" : "https://github.com/AnaTofuZ/perl5-acme-Want5000trillio"
+      }
+   },
    "version" : "0.01",
    "x_authority" : "cpan:ANATOFUZ",
+   "x_contributors" : [
+      "AnaTofuZ <e155730@ie.u-ryukyu.ac.jp>"
+   ],
    "x_serialization_backend" : "JSON::PP version 2.27300"
 }

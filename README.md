@@ -1,14 +1,26 @@
 # NAME
 
-Acme::Want5000trillion - It's new $module
+Acme::Want5000trillion - I want 5000trillion yen.
 
 # SYNOPSIS
 
     use Acme::Want5000trillion;
+    my $want = Acme::Want5000trillion->new;
+
+    print $want->say(); #5000兆円欲しい!
 
 # DESCRIPTION
 
-Acme::Want5000trillion is ...
+Acme::Want5000trillion is Japanese twitter famous words.
+I want 5000 trillion yen.
+
+This module correspondence some languages.
+
+\- ja 
+\- en
+\- th
+\- cn
+\- it 
 
 # LICENSE
 
