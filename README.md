@@ -8,6 +8,7 @@ Acme::Want5000trillion - I want 5000trillion yen.
     my $want = Acme::Want5000trillion->new;
 
     print $want->say(); #5000兆円欲しい!
+    print $want->say('en'); #I want 5000 trillion yen!
 
 # DESCRIPTION
 
@@ -16,11 +17,11 @@ I want 5000 trillion yen.
 
 This module correspondence some languages.
 
-\- ja 
-\- en
-\- th
-\- cn
-\- it 
+- ja 
+- en
+- th
+- cn
+- it 
 
 # LICENSE
 

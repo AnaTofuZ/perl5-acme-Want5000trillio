@@ -33,6 +33,7 @@
       },
       "develop" : {
          "requires" : {
+            "Data::Printer" : "0",
             "Test::CPAN::Meta" : "0",
             "Test::MinimumVersion::Fast" : "0.04",
             "Test::PAUSE::Permissions" : "0.04",
@@ -42,7 +43,7 @@
       },
       "runtime" : {
          "requires" : {
-            "perl" : "5.008001"
+            "perl" : "5.010"
          }
       },
       "test" : {
@@ -63,7 +64,7 @@
          "web" : "https://github.com/AnaTofuZ/perl5-acme-Want5000trillio"
       }
    },
-   "version" : "0.01",
+   "version" : "0.02",
    "x_authority" : "cpan:ANATOFUZ",
    "x_contributors" : [
       "AnaTofuZ <e155730@ie.u-ryukyu.ac.jp>"
