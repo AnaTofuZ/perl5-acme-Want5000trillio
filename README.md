@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/AnaTofuZ/perl5-acme-Want5000trillion.svg?branch=master)](https://travis-ci.org/AnaTofuZ/perl5-acme-Want5000trillion)
+[![Build Status](https://travis-ci.org/AnaTofuZ/perl5-acme-Want5000trillion .svg?branch=master)](https://travis-ci.org/AnaTofuZ/perl5-acme-Want5000trillion)
 
 # NAME
 
@@ -21,7 +21,8 @@ I want 5000 trillion yen.
 This module correspondence some languages.
 
 This module consepts that illutstlation.
-https://www.pixiv.net/member\_illust.php?mode=medium&illust\_id=62495210
+
+["https://www.pixiv.net/member\_illust.php?mode=medium&illust\_id=62495210" in pixiv](https://metacpan.org/pod/pixiv#https:-www.pixiv.net-member_illust.php-mode-mediumillust_id-62495210)
 
 - ja 
 - en

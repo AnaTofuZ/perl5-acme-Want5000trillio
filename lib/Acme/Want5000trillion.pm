@@ -59,7 +59,8 @@ I want 5000 trillion yen.
 This module correspondence some languages.
 
 This module consepts that illutstlation.
-https://www.pixiv.net/member_illust.php?mode=medium&illust_id=62495210
+
+L<pixiv/"https://www.pixiv.net/member_illust.php?mode=medium&illust_id=62495210">
 
 =over
 
