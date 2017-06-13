@@ -4,8 +4,6 @@
 
 Acme::Want5000trillion - I want 5000trillion yen.
 
-\[!\[Build Status\](https://travis-ci.org/AnaTofuZ/perl5-acme-Want5000trillion.svg?branch=master)\](https://travis-ci.org/AnaTofuZ/perl5-acme-Want5000trillion)
-
 # SYNOPSIS
 
     use Acme::Want5000trillion;
