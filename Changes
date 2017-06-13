@@ -2,6 +2,9 @@ Revision history for Perl extension Acme-Want5000trillion
 
 {{$NEXT}}
 
+0.03 2017-06-13T08:06:25Z
+    - modified asciart print
+
 0.02 2017-06-13T07:27:10Z
     - modified perl version 
 
